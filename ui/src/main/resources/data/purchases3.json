@@ -1,0 +1,157 @@
+[
+  {
+    "client": {
+      "name": "JACEK",
+      "surname": "KACPRZAK",
+      "age": 25,
+      "cash": 2100
+    },
+    "products": [
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      },
+      {
+        "name": "DRUKARKA",
+        "category": "ELEKTRONIKA",
+        "price": 600
+      },
+      {
+        "name": "BLUZA",
+        "category": "ODZIEZ",
+        "price": 150
+      },
+      {
+        "name": "DEKODER",
+        "category": "ELEKTRONIKA",
+        "price": 400
+      },
+      {
+        "name": "KOMPUTER",
+        "category": "ELEKTRONIKA",
+        "price": 2500
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "JAN",
+      "surname": "KOWALSKI",
+      "age": 12,
+      "cash": 1200
+    },
+    "products": [
+      {
+        "name": "KOMPUTER",
+        "category": "ELEKTRONIKA",
+        "price": 2500
+      },
+      {
+        "name": "TELEWIZOR",
+        "category": "ELEKTRONIKA",
+        "price": 1000
+      },
+      {
+        "name": "BLUZA",
+        "category": "ODZIEZ",
+        "price": 150
+      },
+      {
+        "name": "DRUKARKA",
+        "category": "ELEKTRONIKA",
+        "price": 600
+      },
+      {
+        "name": "SPODNIE",
+        "category": "ODZIEZ",
+        "price": 125
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "ALEKSANDRA",
+      "surname": "BURON",
+      "age": 22,
+      "cash": 1600
+    },
+    "products": [
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      },
+      {
+        "name": "CZIPSY",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 100
+      },
+      {
+        "name": "MLEKO",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 70
+      },
+      {
+        "name": "DEKODER",
+        "category": "ELEKTRONIKA",
+        "price": 400
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "ADAM",
+      "surname": "WOLF",
+      "age": 32,
+      "cash": 2900
+    },
+    "products": [
+      {
+        "name": "TELEWIZOR",
+        "category": "ELEKTRONIKA",
+        "price": 1000
+      },
+      {
+        "name": "CZIPSY",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 100
+      },
+      {
+        "name": "BLUZA",
+        "category": "ODZIEZ",
+        "price": 150
+      },
+      {
+        "name": "KURTKA",
+        "category": "ODZIEZ",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "MAGDALENA",
+      "surname": "MALINOWSKA",
+      "age": 20,
+      "cash": 2000
+    },
+    "products": [
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      },
+      {
+        "name": "TELEWIZOR",
+        "category": "ELEKTRONIKA",
+        "price": 1000
+      },
+      {
+        "name": "CZIPSY",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 100
+      }
+    ]
+  }
+]

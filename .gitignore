@@ -1,2 +1,5 @@
 .idea
 *.iml
+persistence/target
+service/target
+ui/target

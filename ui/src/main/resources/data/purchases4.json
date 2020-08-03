@@ -1,0 +1,112 @@
+[
+  {
+    "client": {
+      "name": "JAN",
+      "surname": "KOWALSKI",
+      "age": 12,
+      "cash": 1200
+    },
+    "products": [
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      },
+      {
+        "name": "DRUKARKA",
+        "category": "ELEKTRONIKA",
+        "price": 600
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "ADAM",
+      "surname": "WOLF",
+      "age": 32,
+      "cash": 2900
+    },
+    "products": [
+      {
+        "name": "DEKODER",
+        "category": "ELEKTRONIKA",
+        "price": 400
+      },
+      {
+        "name": "TELEWIZOR",
+        "category": "ELEKTRONIKA",
+        "price": 1000
+      },
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      },
+      {
+        "name": "CZIPSY",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "MAGDALENA",
+      "surname": "MALINOWSKA",
+      "age": 20,
+      "cash": 2000
+    },
+    "products": [
+      {
+        "name": "KOMPUTER",
+        "category": "ELEKTRONIKA",
+        "price": 2500
+      },
+      {
+        "name": "KURTKA",
+        "category": "ODZIEZ",
+        "price": 250
+      },
+      {
+        "name": "BLUZA",
+        "category": "ODZIEZ",
+        "price": 150
+      },
+      {
+        "name": "CZIPSY",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 100
+      },
+      {
+        "name": "TELEWIZOR",
+        "category": "ELEKTRONIKA",
+        "price": 1000
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "JACEK",
+      "surname": "KACPRZAK",
+      "age": 25,
+      "cash": 2100
+    },
+    "products": [
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      },
+      {
+        "name": "TELEWIZOR",
+        "category": "ELEKTRONIKA",
+        "price": 1000
+      },
+      {
+        "name": "CZIPSY",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 100
+      }
+    ]
+  }
+]

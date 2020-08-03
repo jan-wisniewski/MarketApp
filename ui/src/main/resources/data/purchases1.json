@@ -1,0 +1,82 @@
+[
+  {
+    "client": {
+      "name": "JAN",
+      "surname": "KOWALSKI",
+      "age": 12,
+      "cash": 1200
+    },
+    "products": [
+      {
+        "name": "CZIPSY",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 100
+      },
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "ALEKSANDRA",
+      "surname": "BURON",
+      "age": 22,
+      "cash": 1600
+    },
+    "products": [
+      {
+        "name": "MLEKO",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 70
+      },
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      },
+      {
+        "name": "BLUZA",
+        "category": "ODZIEZ",
+        "price": 150
+      },
+      {
+        "name": "KURTKA",
+        "category": "ODZIEZ",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "client": {
+      "name": "ADAM",
+      "surname": "WOLF",
+      "age": 32,
+      "cash": 2900
+    },
+    "products": [
+      {
+        "name": "TELEWIZOR",
+        "category": "ELEKTRONIKA",
+        "price": 1000
+      },
+      {
+        "name": "KURTKA",
+        "category": "ODZIEZ",
+        "price": 250
+      },
+      {
+        "name": "SPODNIE",
+        "category": "ODZIEZ",
+        "price": 125
+      },
+      {
+        "name": "JOGURT",
+        "category": "ARTYKULY_SPOZYWCZE",
+        "price": 50
+      }
+    ]
+  }
+]

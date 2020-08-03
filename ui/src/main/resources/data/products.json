@@ -1,0 +1,52 @@
+[
+  {
+    "name": "KOMPUTER",
+    "category": "ELEKTRONIKA",
+    "price": 2500
+  },
+  {
+    "name": "JOGURT",
+    "category": "ARTYKULY_SPOZYWCZE",
+    "price": 50
+  },
+  {
+    "name": "TELEWIZOR",
+    "category": "ELEKTRONIKA",
+    "price": 1000
+  },
+  {
+    "name": "CZIPSY",
+    "category": "ARTYKULY_SPOZYWCZE",
+    "price": 100
+  },
+  {
+    "name": "BLUZA",
+    "category": "ODZIEZ",
+    "price": 150
+  },
+  {
+    "name": "KURTKA",
+    "category": "ODZIEZ",
+    "price": 250
+  },
+  {
+    "name": "DRUKARKA",
+    "category": "ELEKTRONIKA",
+    "price": 600
+  },
+  {
+    "name": "MLEKO",
+    "category": "ARTYKULY_SPOZYWCZE",
+    "price": 70
+  },
+  {
+    "name": "SPODNIE",
+    "category": "ODZIEZ",
+    "price": 125
+  },
+  {
+    "name": "DEKODER",
+    "category": "ELEKTRONIKA",
+    "price": 400
+  }
+]

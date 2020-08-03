@@ -1,0 +1,32 @@
+[
+  {
+    "name": "JAN",
+    "surname": "KOWALSKI",
+    "age": 12,
+    "cash": 1200
+  },
+  {
+    "name": "MAGDALENA",
+    "surname": "MALINOWSKA",
+    "age": 20,
+    "cash": 2000
+  },
+  {
+    "name": "ADAM",
+    "surname": "WOLF",
+    "age": 32,
+    "cash": 2900
+  },
+  {
+    "name": "ALEKSANDRA",
+    "surname": "BURON",
+    "age": 22,
+    "cash": 1600
+  },
+  {
+    "name": "JACEK",
+    "surname": "KACPRZAK",
+    "age": 25,
+    "cash": 2100
+  }
+]
